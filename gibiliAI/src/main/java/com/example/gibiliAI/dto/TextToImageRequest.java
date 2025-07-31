@@ -4,10 +4,10 @@ import java.util.List;
 
 public class TextToImageRequest {
 
-    private List<TextPrompt> tect_prompts;
+    private List<TextPrompt> text_prompts;
     private double cfg_scale=7;
-    private int height=512;
-    private int width=768;
+    private int height=1024;
+    private int width=1024;
     private int steps = 30;
     private int samples=1;
 
@@ -34,13 +34,14 @@ public class TextToImageRequest {
 
     // Default constructor for serialization/deserialization
     public TextToImageRequest(String text , String style){
-        this.tect_prompts = List.of(new TextPrompt(text));
+        this.text_prompts = List.of(new TextPrompt(text));
         this.style_preset = style;
+        System.out.println("Created TextToImageRequest with text: " + text + ", style: " + style);
     }
 
     // Getters for Json serialization
-    public List<TextPrompt> getTect_prompts() {
-        return tect_prompts;
+    public List<TextPrompt> getText_prompts() {
+        return text_prompts;
     }
 
     public double getCfg_scale() {

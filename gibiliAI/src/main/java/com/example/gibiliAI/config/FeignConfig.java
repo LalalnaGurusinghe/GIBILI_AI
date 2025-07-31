@@ -17,6 +17,10 @@ public class FeignConfig {
         return new SpringFormEncoder(
                 new SpringEncoder(()->new HttpMessageConverters(new RestTemplate().getMessageConverters()))
         );
+    }
 
+    @Bean
+    public feign.codec.Decoder feignDecoder() {
+        return new feign.codec.Decoder.Default();
     }
 }

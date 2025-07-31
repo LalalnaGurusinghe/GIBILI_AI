@@ -24,7 +24,7 @@ public interface StabilityAIClient {
             );
 
     @PostMapping(
-            value = "/v1/generation/{engine_id}/text-to-image",
+            value = "/v1/generation/{engine_id}/image-to-image",
             consumes = MediaType.MULTIPART_FORM_DATA_VALUE,
             headers = {"Accept=image/png"}
     )
