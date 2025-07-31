@@ -789,45 +789,6 @@ SOFTWARE.
 
 ---
 
-## 📞 Support
 
-### 🆘 Getting Help
-
-- **📚 Documentation**: Check our [documentation](docs/)
-- **💬 Discussions**: Join our [GitHub Discussions](https://github.com/LalalnaGurusinghe/GIBILI_AI/discussions)
-- **🐛 Bug Reports**: Create an [issue](https://github.com/LalalnaGurusinghe/GIBILI_AI/issues)
-- **💡 Feature Requests**: Suggest features via [issues](https://github.com/LalalnaGurusinghe/GIBILI_AI/issues)
-
-### 📧 Contact Information
-
-- **Email**: support@gibili-ai.com
-- **Website**: [https://gibili-ai.com](https://gibili-ai.com)
-- **Twitter**: [@GibiliAI](https://twitter.com/GibiliAI)
-- **LinkedIn**: [GIBILI AI](https://linkedin.com/company/gibili-ai)
-
-### 🎯 Professional Support
-
-For enterprise support, custom integrations, or consulting services:
-- **Enterprise Email**: enterprise@gibili-ai.com
-- **Business Hours**: Monday-Friday, 9AM-6PM PST
-- **Response Time**: Within 24 hours
-
----
-
-<div align="center">
-
-### 🌟 Star us on GitHub!
-
-If you find GIBILI AI helpful, please consider giving us a star ⭐
-
-**Made with ❤️ by the GIBILI AI Team**
-
-[![GitHub stars](https://img.shields.io/github/stars/LalalnaGurusinghe/GIBILI_AI.svg?style=social&label=Star)](https://github.com/LalalnaGurusinghe/GIBILI_AI)
-[![GitHub forks](https://img.shields.io/github/forks/LalalnaGurusinghe/GIBILI_AI.svg?style=social&label=Fork)](https://github.com/LalalnaGurusinghe/GIBILI_AI/fork)
-[![GitHub watchers](https://img.shields.io/github/watchers/LalalnaGurusinghe/GIBILI_AI.svg?style=social&label=Watch)](https://github.com/LalalnaGurusinghe/GIBILI_AI)
-
----
-
-**[⬆ Back to Top](#-gibili-ai---studio-ghibli-style-ai-art-generator)**
 
 </div>
